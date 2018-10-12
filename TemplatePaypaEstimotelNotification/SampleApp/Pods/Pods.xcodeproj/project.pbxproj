@@ -1,0 +1,426 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7697EF12ADF180C9B676831F3ACB46F2 /* Pods-PayPal-iOS-SDK-Sample-App-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C56554E9219D8BF17ECEAE6CA433A2E /* Pods-PayPal-iOS-SDK-Sample-App-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		008D1A3DFFC78A370C5E926B808DD5A5 /* Pods-PayPal-iOS-SDK-Sample-App-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PayPal-iOS-SDK-Sample-App-acknowledgements.plist"; sourceTree = "<group>"; };
+		0C56554E9219D8BF17ECEAE6CA433A2E /* Pods-PayPal-iOS-SDK-Sample-App-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PayPal-iOS-SDK-Sample-App-dummy.m"; sourceTree = "<group>"; };
+		13D08F74206FE3873666AA48F828CD66 /* EBSScanInfoEstimoteMesh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteMesh.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteMesh.h; sourceTree = "<group>"; };
+		1B0287A91B0CA869071EAFDAA48C5AA3 /* Pods-PayPal-iOS-SDK-Sample-App-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PayPal-iOS-SDK-Sample-App-acknowledgements.markdown"; sourceTree = "<group>"; };
+		2F7D37E926125602B02CB3FEB3198BCA /* Pods-PayPal-iOS-SDK-Sample-App.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PayPal-iOS-SDK-Sample-App.release.xcconfig"; sourceTree = "<group>"; };
+		30676752C2FC31A75084A08459AF3A85 /* EBSScanInfoEstimoteTelemetry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteTelemetry.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteTelemetry.h; sourceTree = "<group>"; };
+		3368313578EBD58C5D06B70BB66A1566 /* EBSScanInfoNearable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoNearable.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoNearable.h; sourceTree = "<group>"; };
+		34987CB6355331FB05CDB550185F253D /* EBSScanInfoIBeaconWithService.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoIBeaconWithService.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoIBeaconWithService.h; sourceTree = "<group>"; };
+		3A7E8EAB80819190BCF8D2D6E313CDB9 /* EBSUniversalScanner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSUniversalScanner.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSUniversalScanner.h; sourceTree = "<group>"; };
+		4DE205C47C22FFEBCB18C3DF8A34D08A /* EBSScanInfoEstimoteLocation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteLocation.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteLocation.h; sourceTree = "<group>"; };
+		4EC8F27151C776329BE9990FE5550A8D /* EBSScanInfoIBeacon.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoIBeacon.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoIBeacon.h; sourceTree = "<group>"; };
+		5D61323550E1FC00A4CF341F1633C25F /* EBSScanInfoGeneric.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoGeneric.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoGeneric.h; sourceTree = "<group>"; };
+		677D0DA481EB0D8210DA410201966780 /* EstimoteBluetoothScanning.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EstimoteBluetoothScanning.framework; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework; sourceTree = "<group>"; };
+		7F298359C847B5D05366CC2F650170AE /* EBSScanInfoEstimoteUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteUtilities.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteUtilities.h; sourceTree = "<group>"; };
+		835FBC04DC1D106AAB914BAA2D173B6B /* EBSScanInfoMirrorConnectivity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoMirrorConnectivity.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoMirrorConnectivity.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		956C635A55971A5598BD5299C6A5719D /* Pods-PayPal-iOS-SDK-Sample-App.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PayPal-iOS-SDK-Sample-App.debug.xcconfig"; sourceTree = "<group>"; };
+		985A592DB761AABF801D409A43B69A32 /* EBSScanInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfo.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfo.h; sourceTree = "<group>"; };
+		9AEB529227015A5D494B7D557A3AC2FD /* libPods-PayPal-iOS-SDK-Sample-App.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-PayPal-iOS-SDK-Sample-App.a"; path = "libPods-PayPal-iOS-SDK-Sample-App.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA99F1AD99384FA69C8E252064953653 /* EBSScanInfoEstimoteTelemetryA.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteTelemetryA.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteTelemetryA.h; sourceTree = "<group>"; };
+		AF364DCDCBC9B4877846C5925E232F12 /* EBSScanInfoEstimoteTelemetryB.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteTelemetryB.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteTelemetryB.h; sourceTree = "<group>"; };
+		B5D9086490CF7C5381390B30AEEF3E6B /* EBSScanInfoLocationConnectivity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoLocationConnectivity.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoLocationConnectivity.h; sourceTree = "<group>"; };
+		B842F3A0F18B8F19EFDCE2AE2DEFEB72 /* Pods-PayPal-iOS-SDK-Sample-App-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PayPal-iOS-SDK-Sample-App-resources.sh"; sourceTree = "<group>"; };
+		C460C487078FC3888BBDB20BF658E174 /* EstimoteBluetoothScanning.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EstimoteBluetoothScanning.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EstimoteBluetoothScanning.h; sourceTree = "<group>"; };
+		C593426A6CA7F68739C43501DD1A7314 /* EBSScanInfoProximityConnectivity.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoProximityConnectivity.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoProximityConnectivity.h; sourceTree = "<group>"; };
+		C750D21D7229DB109BDAE61937C645EB /* EBSScanInfoUWB.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoUWB.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoUWB.h; sourceTree = "<group>"; };
+		D4CC894F9F81C292E930F16D6E16C08E /* EBSScanInfoEstimoteEncrypted.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EBSScanInfoEstimoteEncrypted.h; path = EstimoteBluetoothScanning/EstimoteBluetoothScanning.framework/Headers/EBSScanInfoEstimoteEncrypted.h; sourceTree = "<group>"; };
+		EB640D360BCCFCAF1EFA38EC7479577B /* Pods-PayPal-iOS-SDK-Sample-App-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PayPal-iOS-SDK-Sample-App-frameworks.sh"; sourceTree = "<group>"; };
+		EBEAA4EDC513BC230582307F19ABF9E6 /* EstimoteProximitySDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = EstimoteProximitySDK.framework; path = EstimoteProximitySDK/EstimoteProximitySDK.framework; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E3A6A987E9F7EA237532637175DF0879 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2C63715D4A4EDD76D963C638AA493B7C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EBEAA4EDC513BC230582307F19ABF9E6 /* EstimoteProximitySDK.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4D1240DA5EEFD0C1362E11B7A3C00A77 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				677D0DA481EB0D8210DA410201966780 /* EstimoteBluetoothScanning.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		74740881482BA200B2512B84EA84A967 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FD3CE6DC2E89998CC5160B7926C9B1E0 /* EstimoteBluetoothScanning */,
+				974CA993549CC0FB699BD2907AD0DBCD /* EstimoteProximitySDK */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
+				74740881482BA200B2512B84EA84A967 /* Pods */,
+				9AB98DBEF77B8F1A9CE5CB10D9593CDB /* Products */,
+				801D3869D5ED8D67CD7B89A64D82E6F7 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		801D3869D5ED8D67CD7B89A64D82E6F7 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				D99CA8AAE47EAE88AA98BF2D537DE916 /* Pods-PayPal-iOS-SDK-Sample-App */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		974CA993549CC0FB699BD2907AD0DBCD /* EstimoteProximitySDK */ = {
+			isa = PBXGroup;
+			children = (
+				2C63715D4A4EDD76D963C638AA493B7C /* Frameworks */,
+			);
+			name = EstimoteProximitySDK;
+			path = EstimoteProximitySDK;
+			sourceTree = "<group>";
+		};
+		9AB98DBEF77B8F1A9CE5CB10D9593CDB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9AEB529227015A5D494B7D557A3AC2FD /* libPods-PayPal-iOS-SDK-Sample-App.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D99CA8AAE47EAE88AA98BF2D537DE916 /* Pods-PayPal-iOS-SDK-Sample-App */ = {
+			isa = PBXGroup;
+			children = (
+				1B0287A91B0CA869071EAFDAA48C5AA3 /* Pods-PayPal-iOS-SDK-Sample-App-acknowledgements.markdown */,
+				008D1A3DFFC78A370C5E926B808DD5A5 /* Pods-PayPal-iOS-SDK-Sample-App-acknowledgements.plist */,
+				0C56554E9219D8BF17ECEAE6CA433A2E /* Pods-PayPal-iOS-SDK-Sample-App-dummy.m */,
+				EB640D360BCCFCAF1EFA38EC7479577B /* Pods-PayPal-iOS-SDK-Sample-App-frameworks.sh */,
+				B842F3A0F18B8F19EFDCE2AE2DEFEB72 /* Pods-PayPal-iOS-SDK-Sample-App-resources.sh */,
+				956C635A55971A5598BD5299C6A5719D /* Pods-PayPal-iOS-SDK-Sample-App.debug.xcconfig */,
+				2F7D37E926125602B02CB3FEB3198BCA /* Pods-PayPal-iOS-SDK-Sample-App.release.xcconfig */,
+			);
+			name = "Pods-PayPal-iOS-SDK-Sample-App";
+			path = "Target Support Files/Pods-PayPal-iOS-SDK-Sample-App";
+			sourceTree = "<group>";
+		};
+		FD3CE6DC2E89998CC5160B7926C9B1E0 /* EstimoteBluetoothScanning */ = {
+			isa = PBXGroup;
+			children = (
+				985A592DB761AABF801D409A43B69A32 /* EBSScanInfo.h */,
+				D4CC894F9F81C292E930F16D6E16C08E /* EBSScanInfoEstimoteEncrypted.h */,
+				4DE205C47C22FFEBCB18C3DF8A34D08A /* EBSScanInfoEstimoteLocation.h */,
+				13D08F74206FE3873666AA48F828CD66 /* EBSScanInfoEstimoteMesh.h */,
+				30676752C2FC31A75084A08459AF3A85 /* EBSScanInfoEstimoteTelemetry.h */,
+				AA99F1AD99384FA69C8E252064953653 /* EBSScanInfoEstimoteTelemetryA.h */,
+				AF364DCDCBC9B4877846C5925E232F12 /* EBSScanInfoEstimoteTelemetryB.h */,
+				7F298359C847B5D05366CC2F650170AE /* EBSScanInfoEstimoteUtilities.h */,
+				5D61323550E1FC00A4CF341F1633C25F /* EBSScanInfoGeneric.h */,
+				4EC8F27151C776329BE9990FE5550A8D /* EBSScanInfoIBeacon.h */,
+				34987CB6355331FB05CDB550185F253D /* EBSScanInfoIBeaconWithService.h */,
+				B5D9086490CF7C5381390B30AEEF3E6B /* EBSScanInfoLocationConnectivity.h */,
+				835FBC04DC1D106AAB914BAA2D173B6B /* EBSScanInfoMirrorConnectivity.h */,
+				3368313578EBD58C5D06B70BB66A1566 /* EBSScanInfoNearable.h */,
+				C593426A6CA7F68739C43501DD1A7314 /* EBSScanInfoProximityConnectivity.h */,
+				C750D21D7229DB109BDAE61937C645EB /* EBSScanInfoUWB.h */,
+				3A7E8EAB80819190BCF8D2D6E313CDB9 /* EBSUniversalScanner.h */,
+				C460C487078FC3888BBDB20BF658E174 /* EstimoteBluetoothScanning.h */,
+				4D1240DA5EEFD0C1362E11B7A3C00A77 /* Frameworks */,
+			);
+			name = EstimoteBluetoothScanning;
+			path = EstimoteBluetoothScanning;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		1DAF34435691B03D55C0BC0AF461DB95 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		ADB1777CF607F3F5B73FA80F7D499AB9 /* Pods-PayPal-iOS-SDK-Sample-App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 64693FC193B3B08B8BB7A2E1242852FD /* Build configuration list for PBXNativeTarget "Pods-PayPal-iOS-SDK-Sample-App" */;
+			buildPhases = (
+				1DAF34435691B03D55C0BC0AF461DB95 /* Headers */,
+				26F4EBDDBF50EBE0C9B8CFD621B37618 /* Sources */,
+				E3A6A987E9F7EA237532637175DF0879 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-PayPal-iOS-SDK-Sample-App";
+			productName = "Pods-PayPal-iOS-SDK-Sample-App";
+			productReference = 9AEB529227015A5D494B7D557A3AC2FD /* libPods-PayPal-iOS-SDK-Sample-App.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 9AB98DBEF77B8F1A9CE5CB10D9593CDB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ADB1777CF607F3F5B73FA80F7D499AB9 /* Pods-PayPal-iOS-SDK-Sample-App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		26F4EBDDBF50EBE0C9B8CFD621B37618 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7697EF12ADF180C9B676831F3ACB46F2 /* Pods-PayPal-iOS-SDK-Sample-App-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D50A88A86C73CD80859330DCDEB745E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 956C635A55971A5598BD5299C6A5719D /* Pods-PayPal-iOS-SDK-Sample-App.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C92782E717C52E3633C9A5F211E7987A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		D5F6EF2375CAC20E90D20C39C7A7EDBC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2F7D37E926125602B02CB3FEB3198BCA /* Pods-PayPal-iOS-SDK-Sample-App.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EA8C7AF90938697605468604B2A17B9F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C92782E717C52E3633C9A5F211E7987A /* Debug */,
+				EA8C7AF90938697605468604B2A17B9F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		64693FC193B3B08B8BB7A2E1242852FD /* Build configuration list for PBXNativeTarget "Pods-PayPal-iOS-SDK-Sample-App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D50A88A86C73CD80859330DCDEB745E /* Debug */,
+				D5F6EF2375CAC20E90D20C39C7A7EDBC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
